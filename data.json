@@ -1,0 +1,273 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "Bread",
+      "productCode": "GDN-0011",
+      "releaseDate": "March 19, 2016",
+      "description": "Bread is a staple baked food made from flour, water, yeast, and salt",
+      "price": 19.95,
+      "sale": 0,
+      "starRating": 0,
+      "imageUrl": "../assets/images/cake1.png",
+      "inStock": 5
+    },
+    {
+      "id": "3",
+      "productName": "Cupcake",
+      "productCode": "TBX-0048",
+      "releaseDate": "May 21, 2016",
+      "description": "Cupcakes are small, individual-sized cakes that are often baked in paper or aluminum cupcake liners.",
+      "price": 8.9,
+      "sale": 0,
+      "starRating": 0,
+      "imageUrl": "../assets/images/cake2.png",
+      "inStock": 5
+    },
+    {
+      "id": "4",
+      "productName": "Cookie: ",
+      "productCode": "TBX-0022",
+      "releaseDate": "May 15, 2016",
+      "description": "They are typically made from a dough that includes ingredients like flour, sugar, butter, and eggs.",
+      "price": 11.55,
+      "starRating": 0,
+      "sale": 0,
+      "imageUrl": "../assets/images/cake3.png",
+      "inStock": 5
+    },
+    {
+      "id": "7",
+      "productName": "Pancake",
+      "productCode": "GDN-0011",
+      "releaseDate": "March 19, 2016",
+      "description": "Sponge cake is a light and fluffy cake that gets its airy texture from the use of baking powder.",
+      "price": 19.95,
+      "sale": 0,
+      "starRating": 0,
+      "imageUrl": "../assets/images/blog4.png",
+      "inStock": 5
+    },
+    {
+      "id": "8",
+      "productName": "Croissant",
+      "productCode": "GDN-0012",
+      "releaseDate": "March 20, 2016",
+      "description": "Pancakes are flat, round cakes made from a batter of flour, milk, eggs, and baking powder",
+      "price": 8.95,
+      "sale": 0,
+      "starRating": 0,
+      "imageUrl": "../assets/images/c1.png",
+      "inStock": 5
+    },
+    {
+      "id": "9",
+      "productName": "Brioche",
+      "productCode": "GDN-0013",
+      "releaseDate": "March 21, 2016",
+      "description": "Muffins are small, individual-sized cakes that are typically baked in a muffin tin.",
+      "price": 6,
+      "sale": 0,
+      "starRating": 0,
+      "imageUrl": "../assets/images/c2.png",
+      "inStock": 5
+    },
+    {
+      "id": "11",
+      "productName": "Pound cake",
+      "productCode": "GDN-0014",
+      "releaseDate": "March 22, 2016",
+      "description": " Croissants are a type of flaky, buttery pastry that originated in France.",
+      "price": 4.3,
+      "sale": 0,
+      "starRating": 0,
+      "imageUrl": "../assets/images/c4.png",
+      "inStock": 5
+    },
+    {
+      "id": "12",
+      "productName": "Carrot cake",
+      "productCode": "GDN-0023",
+      "releaseDate": "March 19, 2016",
+      "description": "Brioche is a rich, buttery bread-like pastry that has a soft and tender texture. ",
+      "price": 20,
+      "sale": 0,
+      "starRating": 0,
+      "imageUrl": "../assets/images/c5.png",
+      "inStock": 5
+    },
+    {
+      "id": "13",
+      "productName": "Red velvet cake",
+      "productCode": "GDN-0016",
+      "releaseDate": "March 24, 2016",
+      "description": "Waffles are crispy, grid-patterned cakes made from a batter cooked between two hot plates.",
+      "price": 8,
+      "sale": 0,
+      "starRating": 0,
+      "imageUrl": "../assets/images/c6.png",
+      "inStock": 5
+    },
+    {
+      "id": "14",
+      "productName": "Cheesecake",
+      "productCode": "GDN-0017",
+      "releaseDate": "March 25, 2016",
+      "description": " Croissants are a type of flaky, buttery pastry that originated in France.",
+      "price": 16.3,
+      "sale": 0,
+      "starRating": 0,
+      "imageUrl": "../assets/images/c7.png",
+      "inStock": 5
+    },
+    {
+      "id": "15",
+      "productName": "Chocolate cake",
+      "productCode": "GDN-0018",
+      "releaseDate": "March 26, 2016",
+      "description": "Brioche is a rich, buttery bread-like pastry that has a soft and tender texture. ",
+      "price": 20.5,
+      "sale": 0,
+      "starRating": 0,
+      "imageUrl": "../assets/images/c8.png",
+      "inStock": 5
+    },
+    {
+      "id": "16",
+      "productName": "Black forest cake",
+      "productCode": "GDN-0019",
+      "releaseDate": "March 27, 2016",
+      "description": "Waffles are crispy, grid-patterned cakes made from a batter cooked between two hot plates.",
+      "price": 19,
+      "sale": 0,
+      "starRating": 0,
+      "imageUrl": "../assets/images/c9.png",
+      "inStock": 5
+    },
+    {
+      "id": "17",
+      "productName": "Tiramisu",
+      "productCode": "GDN-0020",
+      "releaseDate": "March 19, 2016",
+      "description": " Croissants are a type of flaky, buttery pastry that originated in France.",
+      "price": 22,
+      "sale": 0,
+      "starRating": 0,
+      "imageUrl": "../assets/images/c10.png",
+      "inStock": 5
+    },
+    {
+      "id": "21",
+      "productName": "Mooncake",
+      "productCode": "GDN-0022",
+      "releaseDate": "March 19, 2016",
+      "description": "Brioche is a rich, buttery bread-like pastry that has a soft and tender texture. ",
+      "price": 9,
+      "sale": 0,
+      "starRating": 0,
+      "imageUrl": "../assets/images/o5.png",
+      "inStock": 5
+    },
+    {
+      "id": "22",
+      "productName": "Sticky rice cake",
+      "productCode": "GDN-0023",
+      "releaseDate": "March 19, 2016",
+      "description": "Brioche is a rich, buttery bread-like pastry that has a soft and tender texture. ",
+      "price": 19,
+      "sale": 0,
+      "starRating": 0,
+      "imageUrl": "../assets/images/o6.png",
+      "inStock": 5
+    },
+    {
+      "id": "23",
+      "productName": "Rice dumpling",
+      "productCode": "GDN-0024",
+      "releaseDate": "March 19, 2016",
+      "description": "Brioche is a rich, buttery bread-like pastry that has a soft and tender texture. ",
+      "price": 25,
+      "sale": 0,
+      "starRating": 0,
+      "imageUrl": "../assets/images/cake7.png",
+      "inStock": 5
+    }
+  ],
+  "user": [
+    {
+      "id": "f1a0",
+      "email": "itc.edu@gmail.com",
+      "password": "123456789",
+      "confirmpassword": "123456789"
+    },
+    {
+      "id": "d9e5",
+      "email": "trannha810@gmail.com",
+      "password": "1234567890",
+      "confirmpassword": "1234567890"
+    },
+    {
+      "id": "fd54",
+      "email": "trannha810@gmail.com",
+      "password": "1234567890"
+    }
+  ],
+  "admin": [
+    {
+      "id": "142f",
+      "email": "admin@gmail.com",
+      "password": "1234567890",
+      "confirmpassword": "1234567890"
+    },
+    {
+      "id": "d82b",
+      "email": "admin@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": "d01f",
+      "email": "admin@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": "467a",
+      "email": "admin@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": "d8d3",
+      "email": "admin@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": "eac6",
+      "email": "admin@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": "7f63",
+      "email": "admin@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": "6454",
+      "email": "admin@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": "4b46",
+      "email": "admin@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": "1501",
+      "email": "admin@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": "7d25",
+      "email": "admin@gmail.com",
+      "password": "12121212"
+    }
+  ]
+}
